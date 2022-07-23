@@ -380,6 +380,19 @@ Date Finished: 21 July 2022**
 
 ### 12 Factor Apps Pattern
 
+- Codebase
+- Dependencies
+- Config
+- Backing services
+- Build, release, run
+- Processes
+- Port binding
+- Concurrency
+- Disposability
+- Dev/prod parity
+- Logs
+- Admin processes
+
 ### AWS Lambda
 
 - Concepts
