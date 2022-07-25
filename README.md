@@ -936,31 +936,15 @@ Date Finished: 22 July 2022
 
 - [AWS Certified DevOps Engineer Professional Practice Tests](https://www.whizlabs.com/learn/course/aws-devops-certification-training/183)
 
-## Part 8: Exam Preparation 
-Date Start:  22 July 2022
-Date Finished: 22 July 2022
-
-### Exam 1: 23 July 2022
-
-### Exam 2: 24 July 2022
-
-### Exam 3: 25 July 2022
-
-### Exam 4: 25 July 2022
-
-### Exam 5: 
-
-### Exam 6: 
-
 ## INFO: DOP-C01 Exam Breakdown
 
-### SDLC Automation (22%)
+- SDLC Automation (22%)
 
-### Config. Management & IaC (19%)
+- Config. Management & IaC (19%)
 
-### Monitoring & Logging (15%)
+- Monitoring & Logging (15%)
 
-### Policies & Standard Automation (10%)
+- Policies & Standard Automation (10%)
 
-### Incident & Event Response (18%)
+- Incident & Event Response (18%)
 
