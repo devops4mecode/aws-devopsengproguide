@@ -842,7 +842,7 @@ Date Finished: 22 July 2022
 
 ### AWS Region
 
-### HA
+### High-Availability (HA)
 
 - Global Services
 
@@ -940,11 +940,17 @@ Date Finished: 22 July 2022
 Date Start:  22 July 2022
 Date Finished: 22 July 2022
 
-### Exam 1
+### Exam 1: 23 July 2022
 
-### Exam 2
+### Exam 2: 24 July 2022
 
-### Exam 3: 
+### Exam 3: 25 July 2022
+
+### Exam 4: 25 July 2022
+
+### Exam 5: 
+
+### Exam 6: 
 
 ## INFO: DOP-C01 Exam Breakdown
 
@@ -957,3 +963,4 @@ Date Finished: 22 July 2022
 ### Policies & Standard Automation (10%)
 
 ### Incident & Event Response (18%)
+
