@@ -1,9 +1,13 @@
-# AWS DevOps Engineer Professional
-(DOP-C01)
+# AWS DevOps Engineer Professional (DOP-C01)
 
 ## **Part 1: SDLC Automation
-Date Start: 13 July 2022
-Date Finished: 19 July 2022**
+
+### What To Learn?
+- Automate a CI/CD pipeline by implementing the necessary concepts.
+Determine the best methods for implementing source control
+Integrate and automate testing concepts.
+- Build and manage artefacts in a secure manner by utilising these concepts.
+- Learn how to use AWS Services to implement deployment and delivery strategies (e.g., A/B testing, Blue/Green testing, Canary testing, Red/Black testing)
 
 ### AWS CodePipeline
 
@@ -346,8 +350,13 @@ Date Finished: 19 July 2022**
 	- Logs as event-streams
 
 ## **Part 2: Config. Management & IaC
-Date Start: 19 July 2022
-Date Finished: 21 July 2022**
+
+### What To Learn?
+- Identify the most appropriate deployment services based on the actual requirements of the project
+- Determine application and infrastructure deployment models based on the needs of your company.
+- Automate resource provisioning using security concepts.
+- On a deployment, determine how to use lifecycle hooks.
+- Use AWS configuration management tools and services to learn about system management concepts.
 
 ### Elastic Container Service (ECS)
 
@@ -458,8 +467,14 @@ Date Finished: 21 July 2022**
 		- AWS ECS, LBs,etc
 
 ## **Part 3: Monitoring & Logging
-Date Start: 21 July 2022
-Date Finished: 21 July 2022**
+
+### What To Learn?
+
+- Based on the project's actual needs, select the best deployment services.
+- Assess your company's requirements to determine the best model for deploying applications and infrastructure.
+- Security concepts can be used to automate the provisioning of resources.
+- Determine how to use lifecycle hooks during a deployment.
+- Learn about system management with the help of AWS tools and services.
 
 ### CloudWatch
 
@@ -665,8 +680,11 @@ Date Finished: 21 July 2022**
 - Create Resource Group and Tag Group
 
 ## **Part 4: Policies & Standard Automation
-Date Start: 21 July 2022
-Date Finished: 22 July 2022**
+
+### What To Learn?
+- Logging, metrics, monitoring, testing, and security standards can be enforced by applying the necessary concepts.
+- Determine how to cut costs by automating processes.
+- Utilize the concepts necessary to put governance strategies into action
 
 ### AWS System Manager
 
@@ -742,8 +760,12 @@ Date Finished: 22 July 2022**
 	- UC2: allowing users to deploy their apps
 
 ## **Part 5: Incident & Event Response
-Date Start:  22 July 2022
-Date Finished: 22 July 2022**
+
+### What To Learn?
+- Determine the source of the problem and the best course of action for resolving it
+- Decide on a way to automate alerting and event management
+- Implement the concepts necessary for automated healing to take place.
+- Integrate key event-driven automation concepts into your work
 
 ### Troubleshooting 
 
@@ -835,8 +857,13 @@ Date Finished: 22 July 2022**
 - Automatically scan for scalable services
 
 ## Part 6: High Availability (HA), Fault-Tolerance, & Disaster Recovery (DR)
-Date Start:  22 July 2022
-Date Finished: 22 July 2022
+
+### What To Learn?
+- Determine whether multi-AZ or multi-region architectures are appropriate for your application.
+- Learn how to implement high availability, scaling, and fault tolerance
+- Use business requirements (e.g., RTO/RPO, cost) to select the best services.
+- Learn how to create and implement disaster recovery plans that are automated.
+- Determine what areas of a deployment may be at risk.
 
 ### Multi-AZ
 
