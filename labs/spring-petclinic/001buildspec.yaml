@@ -1,0 +1,22 @@
+version: 0.2 
+ 
+phases: 
+  install:
+    runtime-versions:
+      java: corretto17 
+  build: 
+    commands: 
+      - echo Build started on `date`
+      - mvn surefire-report:report
+      - mvn package
+      - echo Build completed `date`
+reports:
+  SurefireReports:
+    files:
+      - '**/*'
+    base-directory: 'target/surefire-reports'
+artifacts: 
+  files: 
+    - '**/*'
+    - target/spring-petclinic-2.3.0.BUILD-SNAPSHOT.jar 
+    - 'target/surefire-reports/**/*'
