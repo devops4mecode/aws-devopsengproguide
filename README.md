@@ -1,5 +1,11 @@
 # AWS DevOps Engineer Professional (DOP-C01)
 
+### Introduction
+
+<br>
+<p align="center"><img src="./assets/AWS DevOps Engineer Professional (DOP-C01) - Study Guide.png"></p>
+<br>
+
 <details><summary> <b>Part 1: SDLC Automation</b></summary>
 <br>
 
@@ -353,6 +359,7 @@ Integrate and automate testing concepts.
 <br>
 <details><summary> <b>Part 2: Config. Management & IaC</b></summary>
 <br>
+
 ### What To Learn?
 - Identify the most appropriate deployment services based on the actual requirements of the project
 - Determine application and infrastructure deployment models based on the needs of your company.
@@ -471,6 +478,7 @@ Integrate and automate testing concepts.
 <br>
 <details><summary> <b>Part 3: Monitoring & Logging</b></summary>
 <br>
+
 ### What To Learn?
 
 - Based on the project's actual needs, select the best deployment services.
