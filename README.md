@@ -8,6 +8,8 @@
 
 Validating a candidate's technical expertise in creating, operating, and managing distributed application systems on the AWS platform is the purpose of the AWS Certified DevOps Engineer Professional test. It is geared toward people who hold the position of DevOps Engineer in an organisation.
 
+Hence, in this repository, I've created a study guide with a timeline to help you allocate your exam preparation. A guides you on how to study and what topic you need to focus on for your exam.
+
 <br>
 <p align="center"><img src="./assets/AWS DevOps Engineer Professional (DOP-C01) - Study Guide.png"></p>
 <br>
