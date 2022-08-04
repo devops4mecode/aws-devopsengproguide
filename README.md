@@ -1,6 +1,7 @@
 # AWS DevOps Engineer Professional (DOP-C01)
 
-## **Part 1: SDLC Automation
+<details><summary> <b>Part 1: SDLC Automation</b></summary>
+<br>
 
 ### What To Learn?
 - Automate a CI/CD pipeline by implementing the necessary concepts.
@@ -348,9 +349,10 @@ Integrate and automate testing concepts.
 	- Able to failover to other region/dc
 	- Self-Healing
 	- Logs as event-streams
-
-## **Part 2: Config. Management & IaC
-
+</details>
+<br>
+<details><summary> <b>Part 2: Config. Management & IaC</b></summary>
+<br>
 ### What To Learn?
 - Identify the most appropriate deployment services based on the actual requirements of the project
 - Determine application and infrastructure deployment models based on the needs of your company.
@@ -465,9 +467,10 @@ Integrate and automate testing concepts.
 	- Direct Public request to private resources 
 
 		- AWS ECS, LBs,etc
-
-## **Part 3: Monitoring & Logging
-
+</details>
+<br>
+<details><summary> <b>Part 3: Monitoring & Logging</b></summary>
+<br>
 ### What To Learn?
 
 - Based on the project's actual needs, select the best deployment services.
@@ -678,8 +681,9 @@ Integrate and automate testing concepts.
 
 - Implement/Update Tag over the regions
 - Create Resource Group and Tag Group
-
-## **Part 4: Policies & Standard Automation
+</details>
+<br>
+## Part 4: Policies & Standard Automation
 
 ### What To Learn?
 - Logging, metrics, monitoring, testing, and security standards can be enforced by applying the necessary concepts.
@@ -758,9 +762,10 @@ Integrate and automate testing concepts.
 	- Portfolio : Collection of Products
 	- UC1: tool that you want to allow users to deploy
 	- UC2: allowing users to deploy their apps
-
-## **Part 5: Incident & Event Response
-
+</details>
+<br>
+<details><summary> <b>Part 5: Incident & Event Response</b></summary>
+<br>
 ### What To Learn?
 - Determine the source of the problem and the best course of action for resolving it
 - Decide on a way to automate alerting and event management
@@ -855,8 +860,10 @@ Integrate and automate testing concepts.
 - Creates and manages CloudWatch alarms and triggering scaling
 - Predictive scaling for EC2
 - Automatically scan for scalable services
-
-## Part 6: High Availability (HA), Fault-Tolerance, & Disaster Recovery (DR)
+</details>
+<br>
+<details><summary> <b>Part 6: High Availability (HA), Fault-Tolerance, & Disaster Recovery (DR)</b></summary>
+<br>
 
 ### What To Learn?
 - Determine whether multi-AZ or multi-region architectures are appropriate for your application.
@@ -948,9 +955,10 @@ Integrate and automate testing concepts.
 	- AWS Lambda: Snapshot  schedule, Cross region copy)
 	- AWS System Manager
 	- AWS Backup
-
-## Part 7: Study Material
-
+</details>
+<br>
+<details><summary> <b>Study Material</b></summary>
+<br>
 ### UDEMY
 
 - [AWS Certified DevOps Engineer - Professional 2022](https://www.udemy.com/course/master-aws-certified-devops-engineer-professional/)
@@ -962,8 +970,10 @@ Integrate and automate testing concepts.
 - [aws-devops-certification-training](https://www.whizlabs.com/learn/course/aws-devops-certification-training)
 
 - [AWS Certified DevOps Engineer Professional Practice Tests](https://www.whizlabs.com/learn/course/aws-devops-certification-training/183)
-
-## INFO: DOP-C01 Exam Breakdown
+</details>
+<br>
+<details><summary> <b>INFO: DOP-C01 Exam Breakdown</b></summary>
+<br>
 
 - SDLC Automation (22%)
 
@@ -974,4 +984,5 @@ Integrate and automate testing concepts.
 - Policies & Standard Automation (10%)
 
 - Incident & Event Response (18%)
+</details>
 
