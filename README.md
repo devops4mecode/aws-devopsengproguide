@@ -683,7 +683,8 @@ Integrate and automate testing concepts.
 - Create Resource Group and Tag Group
 </details>
 <br>
-## Part 4: Policies & Standard Automation
+<details><summary> <b>Part 4: Policies & Standard Automation</b></summary>
+<br>
 
 ### What To Learn?
 - Logging, metrics, monitoring, testing, and security standards can be enforced by applying the necessary concepts.
@@ -957,8 +958,9 @@ Integrate and automate testing concepts.
 	- AWS Backup
 </details>
 <br>
-<details><summary> <b>Study Material</b></summary>
+<details><summary> <b>STUDY: Course & Exam Preparation</b></summary>
 <br>
+
 ### UDEMY
 
 - [AWS Certified DevOps Engineer - Professional 2022](https://www.udemy.com/course/master-aws-certified-devops-engineer-professional/)
@@ -970,10 +972,13 @@ Integrate and automate testing concepts.
 - [aws-devops-certification-training](https://www.whizlabs.com/learn/course/aws-devops-certification-training)
 
 - [AWS Certified DevOps Engineer Professional Practice Tests](https://www.whizlabs.com/learn/course/aws-devops-certification-training/183)
+
 </details>
 <br>
 <details><summary> <b>INFO: DOP-C01 Exam Breakdown</b></summary>
 <br>
+
+### Mark Breakdown
 
 - SDLC Automation (22%)
 
