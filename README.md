@@ -6,7 +6,13 @@
  
  The AWS Certified DevOps Engineer Professional (DOP-C01) exam is one of the most difficult but also one of the highest paying IT certifications offered by Amazon Web Services. This exam is the AWS Certification that is typically taken after acquiring the SysOps Administrator Associate and Developer Associate certifications.
 
-Validating a candidate's technical expertise in creating, operating, and managing distributed application systems on the AWS platform is the purpose of the AWS Certified DevOps Engineer Professional test. It is geared toward people who hold the position of DevOps Engineer in an organisation.
+Validating a candidate's technical expertise in creating, operating, and managing distributed application systems on the AWS platform is the purpose of the AWS Certified DevOps Engineer Professional test. It is geared toward people who hold the position of DevOps Engineer in an organisation. The exam also validates a candidate’s ability to complete the following tasks:
+
+ Implement and manage continuous delivery systems and methodologies on AWS
+ Implement and automate security controls, governance processes, and compliance validation
+ Define and deploy monitoring, metrics, and logging systems on AWS
+ Implement systems that are highly available, scalable, and self-healing on the AWS platform
+ Design, manage, and maintain tools to automate operational processes
 
 Hence, in this repository, I've created a study guide with a timeline to help you allocate your exam preparation. A guides you on how to study and what topic you need to focus on for your exam.
 
